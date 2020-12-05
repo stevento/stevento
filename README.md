@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm currently studying Civil Engineering at UBC.
+I just changed the README file.
