@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently studying Civil Engineering at UBC.
+I'm currently studying at UBC.
