@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently on exchange at HKUST
+I'm currently studying at UBC. I will be graduating in May 2024 and starting a full-time software engineer position.
